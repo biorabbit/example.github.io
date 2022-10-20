@@ -8,3 +8,6 @@ output:
 ---
 
 # some text
+
+
+![]("data/3.jpg")
